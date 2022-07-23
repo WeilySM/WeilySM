@@ -1,6 +1,8 @@
-## Hi there 👋
-##### My name is Weily
+# Hi there 👋
+### My name is Weily 
 >I'm a fullstack software engineer
+##
+![Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 <!--
 **WeilySM/WeilySM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Weily's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeilySM&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeilySM)](https://github.com/WeilySM/github-readme-stats)
