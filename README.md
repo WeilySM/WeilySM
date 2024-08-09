@@ -51,7 +51,7 @@
 ## About me:
 
 - ⚡ I'm cuban. Born, raised and living in Havana.
-- 🌱 I’m currently learning AWS and Docker
+- 🌱 I’m currently learning Azure
 - 👯 I’m looking to collaborate on any project
 - ⚡ Fun fact: I can't work without music(isn't funny, but is a fact) 
 
