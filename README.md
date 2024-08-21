@@ -2,7 +2,7 @@
 ### My name is Weily 
 >I'm a software engineer, currently working at Universidad Tecnológica de La Habana(CUJAE) as a full-stack software engineer.
 ##
-![Gif](https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+![Gif](https://drive.google.com/file/d/1XKVhwYgnIxMIfBjwnj4L6W10p2gLNOeM/view?usp=drive_link)
 ##
 ## Technologies and Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
